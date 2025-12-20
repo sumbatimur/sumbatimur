@@ -1,6 +1,5 @@
 ## Hi there 👋
-![sumbatimur](img/github_banner.png)
-
+![sumbatimur](img/github_profil.jpg)
 **sumbatimur/sumbatimur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +17,4 @@ Here are some ideas to get you started:
 
 
 I'm into anime, coding, cybersecurity vibes 😎  
-Let’s hack ✨ (just projects tho!)
+Let’s hack ✨ c
